@@ -38,9 +38,20 @@ a.append("Ahmad")
 print(a)
 print(name)
 
+a=name.copy()
+a.append("Ahmad")
+print(a)
+print(name)
 
 
-
+a=name.copy()
+a.append("Ahmad")
+print(a)
+print(name)
+a=name.copy()
+a.append("Ahmad")
+print(a)
+print(name)
 
 
 
