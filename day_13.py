@@ -117,6 +117,12 @@ class Developer(Employee):
 
 designer1: Designer = Designer("Animation Artist", "Asif Khan")
 dev1: Developer = Developer("GenAI Engineer", "John Doe")
+dev1: Developer = Developer("GenAI Engineer", "John Doe")
+dev1: Developer = Developer("GenAI Engineer", "John Doe")
+dev1: Developer = Developer("GenAI Engineer", "John Doe")
+dev1: Developer = Developer("GenAI Engineer", "John Doe")
+dev1: Developer = Developer("GenAI Engineer", "John Doe")
+dev1: Developer = Developer("GenAI Engineer", "John Doe")
 
 print(designer1.title)  # Output: Animation Artist
 print(dev1.programming_skills)  # Output: ['python']
