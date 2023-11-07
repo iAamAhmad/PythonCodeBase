@@ -11,6 +11,15 @@ print(a.size) # prints the size of the object
 print(a.itemsize) # prints the itemsize of the object
 
 
+print(a) # prints
+print(a.shape) # prints the shape of the object () = 0 -Denormalized
+print(a.dtype) # prints the dtype of the object
+print(type(a)) 
+print(a.ndim) # prints the number of dimensions
+print(a.size) # prints the size of the object
+print(a.itemsize) # prints the itemsize of the object
+
+
 
 a : np.ndarray = np.array([1,2,3,4]) # object to store [1,2,3,4] = vector
 
