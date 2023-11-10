@@ -55,4 +55,15 @@
 // console.log(x)
 
 console.log(typeof null)
-console.log(2+"2")
+console.log(2 + "2")
+
+
+console.log(typeof null)
+console.log(2 + "2")
+
+console.log(typeof null)
+console.log(2 + "2")
+console.log(typeof null)
+console.log(2 + "2")
+console.log(typeof null)
+console.log(2 + "2")
