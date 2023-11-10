@@ -8,6 +8,7 @@
 
 // // // function foo() {
 // // //    var a = b = c = 5;
+// // //    var a = b = c = 5;
 // // // }
 // // // foo();
 // // // console.log(`The value of c is ${c}`); // 5
