@@ -16,3 +16,20 @@ s1 : pd.Series = pd.Series({"a": 10,
                             "f":60,
                             "g":70,})
 s1
+
+
+values : list[int] = [1, 2, 3, 4, 5]
+
+index1 : list[list[str]] = [['a1', 'a1', 'a1', 'b1', 'b1'],
+                            ['a', 'b', 'c', 'd', 'e']]
+
+s1 : pd.Series = pd.Series(values, index=index1)
+s1
+
+values : list[int] = [1, 2, 3, 4, 5]
+
+index1 : list[list[str]] = [['a1', 'a1', 'a1', 'b1', 'b1'],
+                            ['a', 'b', 'c', 'd', 'e']]
+
+s1 : pd.Series = pd.Series(values, index=index1, name="Student_Data")
+s1
